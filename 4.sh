@@ -1,0 +1,1 @@
+dotnet run --project ./4-entangled-rng/
