@@ -1,1 +1,1 @@
-dotnet run --project ./4-entangled-rng/
+../collapse/src/Collapse/bin/Release/net6.0/publish/Collapse sim ./3-entanglement/ --shots 250 --qir --qir-runner ~/opt/qir-runner.0.3.0/qir-runner

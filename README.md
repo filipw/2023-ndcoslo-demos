@@ -1,1 +1,1 @@
-# 2023-azurebootcamp-demos
+# NDC Oslo 2023 demos
