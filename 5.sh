@@ -1,1 +1,1 @@
-dotnet run --project ./4-entangled-rng/
+dotnet run --project ./5-entangled-rng/

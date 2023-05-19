@@ -1,0 +1,1 @@
+dotnet run --project ./3-deutsch/
