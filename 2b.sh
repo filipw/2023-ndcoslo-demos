@@ -1,1 +1,1 @@
-../collapse/src/Collapse/bin/Release/net6.0/publish/Collapse sim ./2-rng/ --shots 250 --qir --qir-runner ~/opt/qir-runner.0.3.0/qir-runner
+../collapse/src/Collapse/bin/Release/net6.0/publish/Collapse sim ./2-rng/ --shots 10000 --qir --qir-runner ~/opt/qir-runner.0.3.0/qir-runner --no-orchestration

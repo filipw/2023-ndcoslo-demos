@@ -1,1 +1,1 @@
-dotnet run --project ./3-deutsch/
+../collapse/src/Collapse/bin/Release/net6.0/publish/Collapse sim ./3-deutsch/ --shots 10000 --qir --qir-runner ~/opt/qir-runner.0.3.0/qir-runner --no-orchestration
